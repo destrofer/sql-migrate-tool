@@ -1,0 +1,13 @@
+[
+	{
+		"path": "sql",
+		"db": {
+			"dsn": "mysql:host=localhost;dbname=web;charset=utf8",
+			"user": "root",
+			"pass": "",
+			"init": [
+				"SET NAMES 'utf8mb4'"
+			]
+		}
+	}
+]
